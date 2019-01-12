@@ -1,0 +1,4 @@
+﻿  StackGame201216043.cpp
+c:\users\qmparket\desktop\cg\stackgame201216043\stackgame201216043\stackgame201216043.cpp(182): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\qmparket\desktop\cg\stackgame201216043\stackgame201216043\stackgame201216043.cpp(212): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  StackGame201216043.vcxproj -> C:\Users\QmParket\Desktop\cg\StackGame201216043\Debug\StackGame201216043.exe
